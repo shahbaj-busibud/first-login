@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 8px;
+
+    img {
+        border-radius: 50%;
+    }
+
+    p {
+        font-family: "Josefin Sans", sans-serif;
+        font-size: 20px;
+    }
+}
